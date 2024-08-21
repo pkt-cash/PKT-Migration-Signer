@@ -45,7 +45,6 @@ With ETH in your wallet, you will be able to follow the migration link and execu
 
 ## Trivia
 * You will receive 1/3 of your migration on day 1, 1/3 Feb 19, 2025, and 1/3 on Aug 20, 2025.
-* The same migration link will work all three times.
 * To keep amounts simple and readable, the amount you receive will be exactly 1/3 of your balance rounded to the nearest hundredth of 1 PKT. If you started with 1000 PKT, you will receive 999.99 in three batches of 333.33.
 * The signature that you are creating with your (Bitcoin-style) private key is transmuted into an Ethereum style
 signature which can be checked by the smart contract using Solidity code.
