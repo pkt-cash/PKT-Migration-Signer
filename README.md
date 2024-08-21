@@ -18,11 +18,13 @@ out to.
 Download the appropriate executable for your platform. 
 
 * [Windows](https://github.com/pkt-cash/PKT-Migration-Signer/raw/main/downloads/PKT-Migration-Signer_windows_amd64.exe)
-* [Mac Intel](https://github.com/pkt-cash/PKT-Migration-Signer/raw/main/downloads/PKT-Migration-Signer_mac_amd64)
-* [Mac Apple Silicon](https://github.com/pkt-cash/PKT-Migration-Signer/raw/main/downloads/PKT-Migration-Signer_mac_aarch64)
-* [Linux (amd64)](https://github.com/pkt-cash/PKT-Migration-Signer/raw/main/downloads/PKT-Migration-Signer_linux_amd64)
+* [Mac Intel](https://github.com/pkt-cash/PKT-Migration-Signer/raw/main/downloads/PKT-Migration-Signer_mac_amd64.tar.bz2)
+* [Mac Apple Silicon](https://github.com/pkt-cash/PKT-Migration-Signer/raw/main/downloads/PKT-Migration-Signer_mac_aarch64.tar.bz2)
+* [Linux (amd64)](https://github.com/pkt-cash/PKT-Migration-Signer/raw/main/downloads/PKT-Migration-Signer_linux_amd64.tar.bz2)
 
-On Apple, right click (2 finger click) on the icon and then select "Open" to launch the app.
+On Apple, first double click on the .tar.bz2 file that is downloaded, and a new file called
+`PKT-Migration-Signer_mac_<something>` will be created. Right click (2 finger click) on that icon
+and then select "Open" to launch the app.
 There will be a terminal window while the app is running, this is normal.
 
 ![open the migration app](https://github.com/pkt-cash/PKT-Migration-Signer/blob/main/images/migration_1.png?raw=true)
