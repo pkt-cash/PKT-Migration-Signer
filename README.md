@@ -14,6 +14,15 @@ Once you have your private key extracted, you must then install a Web3 wallet su
 After setting up your Web3 wallet, you will have an Ethereum style address, it will look something like this `0xd83969cxEXAMPLExDOxNOTxUSEx14553F3cae6C3`. This address will be the *destination* where your PKT will be paid
 out to.
 
+## Getting a private key from the CLI wallet
+Start by unlocking your wallet, (in this case 60 seconds):
+
+`./pktctl --wallet walletpassphrase <your_passphrase> 60`
+
+Then, type this command to get your private key for an address:
+
+`./pktctl --wallet dumpprivkey <the_address>`
+
 ## Create your Migration Code
 Download the appropriate executable for your platform. 
 
